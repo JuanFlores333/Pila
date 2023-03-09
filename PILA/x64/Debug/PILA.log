@@ -1,0 +1,7 @@
+﻿  PILA.cpp
+C:\Users\Jarvis\Downloads\PILA\PILA.cpp(97,31): warning C4806: '==': operación no segura: ningún valor del tipo 'bool' promovido al tipo 'int' puede igualar la constante proporcionada
+C:\Users\Jarvis\Downloads\PILA\PILA.cpp(101,31): warning C4806: '==': operación no segura: ningún valor del tipo 'bool' promovido al tipo 'int' puede igualar la constante proporcionada
+C:\Users\Jarvis\Downloads\PILA\PILA.cpp(105,31): warning C4806: '==': operación no segura: ningún valor del tipo 'bool' promovido al tipo 'int' puede igualar la constante proporcionada
+C:\Users\Jarvis\Downloads\PILA\PILA.cpp(109,31): warning C4806: '==': operación no segura: ningún valor del tipo 'bool' promovido al tipo 'int' puede igualar la constante proporcionada
+C:\Users\Jarvis\Downloads\PILA\PILA.cpp(113,31): warning C4806: '==': operación no segura: ningún valor del tipo 'bool' promovido al tipo 'int' puede igualar la constante proporcionada
+  PILA.vcxproj -> C:\Users\Jarvis\Downloads\PILA\x64\Debug\PILA.exe
